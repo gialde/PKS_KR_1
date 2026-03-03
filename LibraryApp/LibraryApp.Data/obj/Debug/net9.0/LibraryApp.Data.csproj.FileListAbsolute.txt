@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\bin\Debug\net9.0\LibraryApp.Data.deps.json
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\bin\Debug\net9.0\LibraryApp.Data.runtimeconfig.json
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\bin\Debug\net9.0\LibraryApp.Data.dll
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\bin\Debug\net9.0\LibraryApp.Data.pdb
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.AssemblyInfo.cs
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.sourcelink.json
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.dll
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\refint\LibraryApp.Data.dll
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.pdb
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\LibraryApp.Data.genruntimeconfig.cache
+C:\Users\user\Documents\PKS\PKS_KR_1\LibraryApp\LibraryApp.Data\obj\Debug\net9.0\ref\LibraryApp.Data.dll
